@@ -10,5 +10,5 @@ pyparsing==3.2.5
 python-dateutil==2.9.0.post0
 six==1.17.0
 gunicorn==25.1.0
-psycopg2-binary==2.9.9
+psycopg2-binary==2.9.10
 
