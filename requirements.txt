@@ -1,4 +1,3 @@
-aptdaemon==2.0.2
 attrs==25.4.0
 autocommand==2.2.2
 babel==2.17.0
